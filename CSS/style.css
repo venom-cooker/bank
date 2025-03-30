@@ -1,0 +1,50 @@
+body{
+	background-color: lightyellow;
+	margin: 0px;
+}
+#vvv{
+	color: red;
+}
+h1{
+	text-align: center;
+	color: orange;
+}
+img{
+	width: 200px;
+	height: 200px;
+
+}
+#sss{
+	color: darkred;
+}
+span{
+	color: darkorange;
+}
+h3{
+	color: darkred;
+	margin-left: 20px;
+}
+#venom{
+	color: indianred;
+}
+p{
+	text-indent: 5px;
+}
+
+nav {
+	height: 40px; 
+	background: darkorange;
+	display: flex;
+}
+
+nav > a {
+	align-content: center;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 5px;
+	transition: 0.1s linear;
+}
+
+nav > a:hover {
+	background-color: white;
+}
